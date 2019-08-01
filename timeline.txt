@@ -1,0 +1,10 @@
+7/31/19
+
+A first mvp
+
+Implement node.js service to provide an endpoint for:
+	GET / - the base webpage, populated by loadContext
+	GET /loadContext - returns scalar values to describe the state of the room
+	
+Implement react structure to display a WebGL environment using loadContext response
+
